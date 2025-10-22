@@ -1,8 +1,20 @@
-streamlit==1.36.0
-numpy==1.24.4
-pandas==1.5.3
-scikit-learn==1.2.2
-matplotlib==3.7.1
-seaborn==0.12.2
-joblib==1.2.0
+# Core Streamlit and Components
+streamlit==1.50.0       # Main Streamlit library
+streamlit-lottie==0.0.5 # For Lottie animations
+streamlit-option-menu==0.3.5 # For sidebar menu
+
+# Data Processing and Visualization
+pandas==2.3.3           # For data loading and manipulation
+plotly==6.3.1           # For interactive visualizations in Dashboard
+scipy==1.16.2           # Common dependency for numerical computation
+numpy==2.3.4            # Core numerical library
+
+# Machine Learning and Utilities
+scikit-learn==1.6.1     # For LogisticRegression model
+joblib==1.5.2           # Often used by scikit-learn for model loading/saving
+matplotlib==3.7.1       # Used for the correlation heatmap in analysis.ipynb
+
+# The following packages were present in the successful install block and are good practice to include:
+pyarrow==21.0.0
+Pillow==11.3.0
 
