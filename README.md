@@ -1,8 +1,8 @@
 # 🛍️ SegmentWise: Customer Segmentation App
 
-## Unlock Targeted Marketing Insights!
+ Unlock Targeted Marketing Insights!
 
-## Experience the app live:  customer-segmentation-app-by-saniya.streamlit.app/
+## Experience the app live:  https://customer-segmentation-app-by-saniya.streamlit.app/
 
 ## 🌟 Overview
 
